@@ -71,9 +71,8 @@ body {
     grid-column: 1/7;
     grid-row: 11/13;
     background: #9BC1BC;
-    font-family: 'Oswald';
+    font-family: Helvetica;
     font-weight: bold;
-    font-style: normal;
 
     font-size: 64px;
     line-height: 78px;
